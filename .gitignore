@@ -1,4 +1,4 @@
-signregraph/models/gcns/signregraph.py
+# signregraph/models/gcns/signregraph.py
 work_dirs
 data
 figs
