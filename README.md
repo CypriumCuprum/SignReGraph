@@ -1,6 +1,15 @@
 # SignReGraph
 SignReGraph: Rethinking Skeleton-Based Sign Language Recognition with Masked Self-Supervision
 
+[Update] 🎉 Our paper has been accepted to **Multimedia Systems**! 
+
+## Main Results (Top-1)
+**ASL Citizen**: `84.05%`
+
+**WLASL 2000**: `64.56%`
+
+**MS-ASL 1000**: `79.41%`
+
 ## Installation
 ```bash
 git clone https://github.com/CypriumCuprum/SignReGraph.git
